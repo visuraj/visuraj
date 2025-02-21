@@ -38,7 +38,7 @@ I'm **Vishal Kumar**, an MCA student with a passion for **Full-Stack Development
 #### **3️⃣ Portfolio Website** (*Technologies*)  
 📌 **Tech:** React.js, TailwindCSS, Firebase  
 📌 **Description:** Built a **modern and responsive personal portfolio website** showcasing my skills and projects.  
-🔗 [Live Demo](https://your-portfolio-link.com) | [GitHub](https://github.com/your-repo)  
+🔗 [Live Demo](https://github.com/visuraj/Vishal-portfolio.git)) | [[GitHub](https://github.com/visuraj/Vishal-portfolio.git))  
 
 #### **4️⃣ Event Organizing Website** (*Technologies*)  
 📌 **Tech:** MERN Stack  
