@@ -55,7 +55,7 @@ I'm **Vishal Kumar**, an MCA student with a passion for **Full-Stack Development
 
 ### 📬 Connect with Me  
 📧 **Email:** [Vishalkua798@gmail.com](mailto:Vishalkua798@gmail.com)  
-💼 **LinkedIn:** [Vishal Kumar]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vishal-kumar-2569aa184/))  
+💼 **LinkedIn:** [Vishal Kumar](https://www.linkedin.com/in/vishal-kumar-2569aa184/)
 🐙 **GitHub:** [visuraj](https://github.com/visuraj)  
 
 🚀 Always eager to collaborate on exciting **Full-Stack & AI/ML projects**! Let's connect and innovate together. 😊
