@@ -28,7 +28,7 @@ I'm **Vishal Kumar**, an MCA student with a passion for **Full-Stack Development
 #### **1️⃣ Voice-Based Patient Call System** (*AI & Healthcare*)  
 📌 **Tech:** Azure OpenAI, NLP, Speech-to-Text, React Native, Node.js, MongoDB  
 📌 **Description:** Developed an AI-powered system for patients to communicate requests via voice commands, enhancing **hospital efficiency & patient care**.  
-🔗 [GitHub Repository](https://github.com/your-repo)  
+🔗 [GitHub Repository](https://github.com/visuraj/Vishal_Kumar.git))  
 
 #### **2️⃣ Anomaly Detection in Crowds** (*AI/ML Project *)  
 📌 **Tech:** Python, Machine Learning, AI, Data Science  
