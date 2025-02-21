@@ -1,7 +1,7 @@
 ## 🚀 Vishal Kumar | Full-Stack Developer & AI Enthusiast  
 
 ### 👋 About Me  
-I'm **Vishal Kumar**, an MCA student with a passion for **Full-Stack Development & AI/ML**. I have completed multiple **Infosys Springboard internships** and am currently working as a **Web Developer Intern at CipherByte Technologies**. My expertise spans across **React.js, Node.js, MongoDB, AI/ML, and NLP**.  
+I'm **Vishal Kumar**, an MCA student with a passion for **Full-Stack Development & AI/ML**. I have completed multiple **Infosys Springboard internships** and am currently working as a **Web Developer at CipherByte Technologies**. My expertise spans across **React.js, Node.js, MongoDB, AI/ML, and NLP**.  
 
 ---  
 
