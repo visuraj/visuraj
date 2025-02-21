@@ -30,17 +30,17 @@ I'm **Vishal Kumar**, an MCA student with a passion for **Full-Stack Development
 📌 **Description:** Developed an AI-powered system for patients to communicate requests via voice commands, enhancing **hospital efficiency & patient care**.  
 🔗 [GitHub Repository](https://github.com/your-repo)  
 
-#### **2️⃣ Anomaly Detection in Crowds** (*AI/ML Project - Infosys Internship*)  
+#### **2️⃣ Anomaly Detection in Crowds** (*AI/ML Project *)  
 📌 **Tech:** Python, Machine Learning, AI, Data Science  
 📌 **Description:** Implemented **real-time anomaly detection** using smartphone sensor data, achieving **97.82% accuracy**.  
 🔗 [GitHub Repository](https://github.com/your-repo)  
 
-#### **3️⃣ Portfolio Website** (*CipherByte Technologies Internship*)  
+#### **3️⃣ Portfolio Website** (*Technologies*)  
 📌 **Tech:** React.js, TailwindCSS, Firebase  
 📌 **Description:** Built a **modern and responsive personal portfolio website** showcasing my skills and projects.  
 🔗 [Live Demo](https://your-portfolio-link.com) | [GitHub](https://github.com/your-repo)  
 
-#### **4️⃣ Event Organizing Website** (*CipherByte Technologies Internship*)  
+#### **4️⃣ Event Organizing Website** (*Technologies*)  
 📌 **Tech:** MERN Stack  
 📌 **Description:** Developed a **platform for managing & organizing events**, featuring user authentication, ticket booking, and admin dashboards.  
 🔗 [GitHub Repository](https://github.com/your-repo)  
