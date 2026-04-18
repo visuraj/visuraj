@@ -1,140 +1,96 @@
-# 🚀 Vishal Kumar | Full-Stack Developer & AI Enthusiast  
-
-## 👋 About Me  
-I'm **Vishal Kumar**, an **MCA student** with a passion for **Full-Stack Development** & **AI/ML**.  
-I have successfully completed multiple **Infosys Springboard internships** (AI/ML, Anomaly Detection, and Voice-based Systems) and worked as a **Full-Stack Developer Intern at Kogniti Minds** and a **Web Developer Intern at CodSoft Technologies**.  
-
-💡 I specialize in **MERN stack development** and **AI-driven solutions** — building real-world applications that combine **front-end, back-end, and machine learning** expertise.  
+# 👋 Hi, I'm Vishal Singh  
+### 🚀 Python Full-Stack Developer | Django | FastAPI | Cloud & DevOps  
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 💻 Programming Languages & Frameworks  
-- JavaScript, Python, C, C++, Java, SQL  
-- React.js, Node.js, Express.js, Angular, Django, React Native, Flutter, TensorFlow  
-- MongoDB, PostgreSQL, MySQL, SQLite  
-
-### ⚡ Tools & Technologies  
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Docker, Kubernetes  
-- Firebase  
-- Linux, Ubuntu, Windows  
+## 🧑‍💻 About Me
+Python Developer with hands-on experience building scalable full-stack web applications using Django, FastAPI, and React. Skilled in RESTful API design, database management, and cloud deployment using AWS, Docker, and Kubernetes. Focused on delivering high-performance, production-ready applications.
 
 ---
 
-## 🔥 Work Experience  
+## ⚡ Tech Stack
 
-### Full-Stack Developer Intern — Kogniti Minds (Jun 2025 – Aug 2025)  
-- Developed **Official School Website (Vishwa Bharati Shiksha Sadan)** using React.js, Node.js, Express.js, MongoDB, Vite, and Tailwind CSS.  
-- Designed scalable REST APIs and efficient CRUD operations.  
-- Enhanced UI/UX with responsive, mobile-friendly layouts.  
+### 💻 Frontend
+HTML5, CSS3, JavaScript, React  
 
-### Web Developer Intern — CodSoft (Mar 2025 – Apr 2025)  
-- Built a **portfolio website** and a **JavaScript-based calculator app**.  
-- Developed engaging **landing pages** with clean UI/UX.  
+### 🧠 Backend
+Python (Django, FastAPI), Node.js, REST APIs  
 
-### Full-Stack Developer Intern — Infosys Springboard 5.0 (Sep 2024 – Jan 2025)  
-- Designed **Voice-Based Patient Call System** with AI-driven prioritization using Azure OpenAI & NLP.  
-- Converted core features into **REST APIs** and optimized performance for scalability.  
+### 🗄️ Databases
+MySQL, MongoDB, Oracle SQL, SQLite  
 
----
+### 📊 Data Analysis
+NumPy, Pandas, Matplotlib  
 
-## 🔥 Projects  
-
-### 1️⃣ Official School Website — Vishwa Bharati Shiksha Sadan (2025)  
-📌 **Tech:** React.js, Node.js, Express.js, MongoDB, Vite, Tailwind CSS  
-📌 **Description:** Developed a modern, responsive school web app delivering optimized performance and comprehensive features.  
-🔗 [GitHub Repository](https://github.com/visuraj/Vishwa-Bharati-Shiksha-Sadan.git)  
+### ☁️ DevOps & Cloud
+AWS (EC2, S3), Docker, Kubernetes, CI/CD, Linux  
 
 ---
 
-### 2️⃣ Voice-Based Patient Call System (AI & Healthcare)  
-📌 **Tech:** Azure OpenAI, NLP, Speech-to-Text, React Native, Node.js, MongoDB  
-📌 **Description:** Built an AI-powered system for patients to communicate via voice commands, reducing response time and improving hospital efficiency.  
-🔗 [GitHub Repository](https://github.com/visuraj/Voice-Based-Patient-Call-System.git)  
+## 🏆 Projects
+
+### 🛒 E-Commerce Web Application
+- Built Django-based platform with authentication, cart, and order management  
+- Developed 10+ REST APIs reducing latency by 30%  
+- Implemented RBAC security eliminating unauthorized access  
+- Optimized queries reducing load time from 2.8s to 1.2s  
+- Designed scalable database schema  
 
 ---
 
-### 3️⃣ Anomaly Detection in Crowds (*AI/ML Project*)  
-📌 **Tech:** Python, Machine Learning, Data Science  
-📌 **Description:** Implemented **real-time anomaly detection** using smartphone sensor data, achieving **97.82% accuracy**.  
-🔗 [GitHub Repository](#)  
+### 🎓 Student–Faculty Communication Platform
+- Served 200+ users, saving 5+ hours/week  
+- Built 15+ APIs using FastAPI reducing integration time by 50%  
+- Implemented JWT authentication (admin, faculty, student)  
+- Wrote 30+ unit tests with 95%+ pass rate  
+- Achieved 8.5/10 usability score  
 
 ---
 
-### 4️⃣ Portfolio Website  
-📌 **Tech:** React.js, TailwindCSS, Next.js, Firebase  
-📌 **Description:** Designed and deployed a professional portfolio website showcasing skills, projects, and achievements.  
-🔗 [GitHub Repository](https://github.com/visuraj/Vishal-portfolio.git) | [Live Demo](https://visuraj.github.io/Vishal-portfolio/)  
+### 🏫 School Management System
+- Built using React, Node.js, MongoDB  
+- Delivered 3 feature releases in agile sprints  
+- Developed 12 secure REST APIs with JWT  
+- Created 15+ reusable components improving speed by 35%  
+- Deployed using Docker + AWS EC2  
+- Automated CI/CD reducing release time from 3 days to 4 hours  
 
 ---
 
-### 5️⃣ Event Organizing Website  
-📌 **Tech:** MERN Stack  
-📌 **Description:** Created a platform for managing & organizing events with **user authentication, ticket booking, and admin dashboards**.  
-🔗 [GitHub Repository](#)  
+## 📈 Achievements
+- Reduced API latency by 30%  
+- Improved deployment speed by 90%  
+- Eliminated unauthorized access issues  
+- Delivered projects ahead of deadlines  
 
 ---
 
-### 6️⃣ We Detail — Weather Search App (2020)  
-📌 **Tech:** Autonomous AI Agents, NLP, React.js  
-📌 **Description:** Developed an AI-powered weather search application with **real-time insights** and **voice-based search**.  
-🔗 [GitHub Repository](https://github.com/visuraj/We-Detail-Weather-Search-App.git)  
+## 📜 Certifications
+- AWS Certified Cloud Practitioner (2026)  
+- Docker Essentials – IBM (2025)  
+- Python for Data Science & AI – IBM (2025)  
 
 ---
 
-### 7️⃣ Google Sheets Clone *(Assignment Project)*  
-📌 **Tech:** React, Node.js, JavaScript  
-📌 **Description:** Implemented **spreadsheet functionalities** (formulas, functions, data validation) mimicking Google Sheets.  
+## 🎓 Education
+MCA – Acharya Institute of Management and Sciences (2023–2025)  
+BCA – Ranchi University (2019–2022)  
 
 ---
 
-
-
-## 📜 Certifications  
-- Infosys Springboard 5.0 (Batch 2): AI-Enabled Voice-Based Patient Call System — Jan 2025  
-- Microsoft: Generative AI for Data Science — Mar 2025  
-- OpenAI: Generative Pre-trained Transformer 3 (GPT-3) for Developers — Sep 2024  
-- Web Designing and PHP — Aug 2020  
+## 📫 Connect With Me
+Email: your-email@example.com  
+LinkedIn: your-linkedin-link  
+Portfolio: your-portfolio-link  
 
 ---
 
-## 🎓 Education  
-- **Master of Computer Applications (MCA), Information Technology** — AIMS, Bangalore (Feb 2024 – Dec 2025) | GPA: 7.96  
-- **Bachelor of Computer Applications (BCA), Information Technology** — Ranchi University (Jun 2019 – Sep 2022) | GPA: 7.24  
+## 💡 Currently Working On
+- FastAPI microservices  
+- AI projects (LangChain, RAG, LLMs)  
+- Cloud-native scalable systems  
 
 ---
 
-## 🌍 Volunteer & Community Experience  
-- **Azure Developer Community (Mar 2025, Bangalore):** Participated in cloud upskilling and collaborative tech programs.  
-- **Event Organizer — Microsoft Luxor, Bangalore:** Organized tech-driven events, engaged mentors, and empowered innovators through knowledge-sharing platforms.  
-
----
-
-## 📊 GitHub Stats  
-
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=visuraj&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visuraj&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=visuraj&theme=tokyonight)  
-
----
-
-## 📈 Contribution Graph  
-
-![Vishal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=visuraj&theme=tokyo-night)  
-
----
-
-## 📬 Connect with Me  
-
-📧 **Email:** [Vishalkua798@gmail.com](mailto:Vishalkua798@gmail.com)  
-💼 **LinkedIn:** [Vishal Kumar](https://www.linkedin.com/in/vishal-kumar-2569aa184/)  
-🐙 **GitHub:** [visuraj](https://github.com/visuraj)  
-
----
-
-🚀 Always eager to collaborate on exciting **Full-Stack & AI/ML projects**!  
-Let’s connect and innovate together. 😊  
+## ⭐ Profile Tagline
+Consistent | Scalable | Performance-Driven Developer
