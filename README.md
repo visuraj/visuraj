@@ -1,25 +1,45 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">Python Developer | Full-Stack | DevOps</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2EAD33&height=200&section=header&text=Hi%20There,%20I'm%20Vishal%20Kumar&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Full-Stack%20|%20DevOps&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-kumar-2569aa184/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:Vishalkua798@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vishal-kumar-2569aa184/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EAD33&center=true&vCenter=true&width=600&lines=Building+with+Django+%2B+FastAPI;Automating+with+Selenium+%2B+Playwright;Deploying+on+AWS+with+Docker;Always+learning%2C+always+shipping+%F0%9F%9A%80"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishal-kumar-2569aa184/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:Vishalkua798@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/visuraj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ---
 
 ### 🚀 About Me
 
-- 🐍 Python Developer with experience building full-stack web applications using **Django** and **FastAPI**
-- 🌐 Skilled in RESTful API design, and relational/NoSQL database management (**MySQL, MongoDB, Oracle**)
-- ☁️ Cloud deployment on **AWS** with **Docker** and **Kubernetes**
-- 🧪 Test automation practice with **Selenium** and **Playwright**
-- 📍 Based in Bangalore, India
-- 💬 Languages: English, Hindi, Kannada
+```yaml
+name: Vishal Kumar
+role: Python Developer | Full-Stack | DevOps
+location: Bangalore, India
+languages_spoken: [English, Hindi, Kannada]
+currently_building: Django & FastAPI web apps
+currently_practicing: Test automation with Selenium & Playwright
+cloud: AWS (EC2, S3) + Docker + Kubernetes
+fun_fact: I ship features ahead of deadline 🚢
+```
 
 ---
 
 ### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,django,fastapi,mysql,mongodb,oracle,sqlite,selenium,playwright,docker,aws,linux,git,github,kubernetes&theme=dark" />
+</p>
+
+<details>
+<summary><b>📂 Click to expand full skill breakdown</b></summary>
+<br>
 
 **Front-End**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -46,8 +66,28 @@
 **DevOps & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=visuraj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2EAD33&icon_color=2EAD33"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visuraj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2EAD33"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visuraj&theme=dark&hide_border=true&background=0d1117&ring=2EAD33&fire=2EAD33"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=visuraj&theme=react-dark&hide_border=true&bg_color=0d1117&color=2EAD33&line=2EAD33&point=ffffff"/>
+</p>
 
 ---
 
@@ -91,10 +131,25 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> To activate the snake animation above, set up the free `platane/snk` GitHub Action on your own repo (I can walk you through this if you want).
+
+---
+
 ### 📫 Connect with me
 
-- 📧 Vishalkua798@gmail.com
-- 📱 +91-9835783798
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-kumar-2569aa184/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishal-kumar-2569aa184/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:Vishalkua798@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<p align="center">⭐️ Thanks for visiting my profile!</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=visuraj&style=for-the-badge&color=2EAD33" alt="profile views"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EAD33,100:1F3864&height=100&section=footer"/>
